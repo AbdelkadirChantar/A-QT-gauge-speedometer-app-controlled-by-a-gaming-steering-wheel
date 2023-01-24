@@ -17,3 +17,5 @@ The next step is to run the application on an embedded Linux platform. I have ch
 See the demo video in my LinkedIn profile.
  [A Qt gauge-speedometer app controlled by a gaming steering wheel
 ](https://www.linkedin.com/feed/update/urn:li:activity:7003080279795884032/)
+
+Cross-compile Qt applications for Raspberry Pi3: [ Demo video ](https://drive.google.com/file/d/1XrLjv4YaPqQzJRI7rGjcPDOuvQ_aINQL/view?usp=sharing)
